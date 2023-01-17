@@ -16,13 +16,13 @@ A contrução do site, dentro do react também foi algo mais difícil, pois nece
 Clone o projeto
 
 ```bash
-  git clone trybe-wallet
+  git clone git@github.com:dornellesfr/trybe-wallet.git
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd trybewallet
+  cd trybe-wallet
 ```
 
 Instale as dependências
